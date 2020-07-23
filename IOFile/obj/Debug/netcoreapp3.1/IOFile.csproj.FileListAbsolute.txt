@@ -1,0 +1,13 @@
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.exe
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.deps.json
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.runtimeconfig.json
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.runtimeconfig.dev.json
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.dll
+D:\Collections\FindAndSort\IOFile\bin\Debug\netcoreapp3.1\IOFile.pdb
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.csprojAssemblyReference.cache
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.AssemblyInfoInputs.cache
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.AssemblyInfo.cs
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.csproj.CoreCompileInputs.cache
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.dll
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.pdb
+D:\Collections\FindAndSort\IOFile\obj\Debug\netcoreapp3.1\IOFile.genruntimeconfig.cache

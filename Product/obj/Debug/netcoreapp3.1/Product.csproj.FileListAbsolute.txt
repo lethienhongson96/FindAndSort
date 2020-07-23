@@ -1,0 +1,13 @@
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.exe
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.dll
+D:\Collections\FindAndSort\Product\bin\Debug\netcoreapp3.1\Product.pdb
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.dll
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.pdb
+D:\Collections\FindAndSort\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache

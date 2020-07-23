@@ -1,0 +1,5 @@
+sum = 81
+amount of prime = 5
+amount of oddnum = 7
+sum of border= 10
+multi by 3= 3 6 9 12 15 18 21 24 27 30 33 45 
