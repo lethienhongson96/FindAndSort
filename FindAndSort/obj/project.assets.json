@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Collections\\FindAndSort\\FindAndSort\\FindAndSort.csproj",
+      "projectUniqueName": "D:\\AccessModifier\\FindAndSort\\FindAndSort\\FindAndSort.csproj",
       "projectName": "FindAndSort",
-      "projectPath": "D:\\Collections\\FindAndSort\\FindAndSort\\FindAndSort.csproj",
+      "projectPath": "D:\\AccessModifier\\FindAndSort\\FindAndSort\\FindAndSort.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Collections\\FindAndSort\\FindAndSort\\obj\\",
+      "outputPath": "D:\\AccessModifier\\FindAndSort\\FindAndSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

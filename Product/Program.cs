@@ -24,11 +24,11 @@ namespace Product
 
             productList.Show();
 
-            Console.WriteLine("------------------------------");
+           /* Console.WriteLine("------------------------------");
             productList.findListPrice(21000000, 26000000);
             Console.WriteLine("------------------------------");
             productList.findListType("apple");
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("------------------------------");*/
 
             Console.WriteLine("enter id of product to import amount:");
             int id=Convert.ToInt32(Console.ReadLine());
@@ -36,26 +36,23 @@ namespace Product
             Console.WriteLine("enter amount of product to import amount:");
             int amount=Convert.ToInt32(Console.ReadLine());
 
-            string date = "07/23/2020";
-            productList.ImportProduct(id, amount);
-            productList.ImportProduct(id, amount);
-            productList.ImportProduct(id, amount);
             Console.WriteLine("enter id of product to import amount:");
             int id1 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("enter amount of product to import amount:");
             int amount1 = Convert.ToInt32(Console.ReadLine());
-            productList.ImportProduct(id1, amount1);
+
+            string date = "07/24/2020";
+            productList.ImportProduct(id, amount,5);
+            productList.ImportProduct(id, amount, 4);
+            productList.ImportProduct(id, amount, 3);
+            productList.ImportProduct(id1, amount1, 3);
 
             productList.ViewHistory(DateTime.Parse(date));
-            productList.SellProduct(id, 5);
-            /* productList.Show();*/
+            productList.SellProduct(id, 5, 6);
             Console.WriteLine("----------------------------------");
 
-
             productList.ViewHistory(DateTime.Parse(date));
-            
-
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Collections\\FindAndSort\\Product\\Product.csproj": {}
+    "D:\\AccessModifier\\FindAndSort\\Product\\Product.csproj": {}
   },
   "projects": {
-    "D:\\Collections\\FindAndSort\\Product\\Product.csproj": {
+    "D:\\AccessModifier\\FindAndSort\\Product\\Product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Collections\\FindAndSort\\Product\\Product.csproj",
+        "projectUniqueName": "D:\\AccessModifier\\FindAndSort\\Product\\Product.csproj",
         "projectName": "Product",
-        "projectPath": "D:\\Collections\\FindAndSort\\Product\\Product.csproj",
+        "projectPath": "D:\\AccessModifier\\FindAndSort\\Product\\Product.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Collections\\FindAndSort\\Product\\obj\\",
+        "outputPath": "D:\\AccessModifier\\FindAndSort\\Product\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

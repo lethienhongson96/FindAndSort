@@ -1,0 +1,13 @@
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.exe
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.deps.json
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.runtimeconfig.json
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.runtimeconfig.dev.json
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.dll
+D:\AccessModifier\FindAndSort\Person_School\bin\Debug\netcoreapp3.1\Person_School.pdb
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.csprojAssemblyReference.cache
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.AssemblyInfoInputs.cache
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.AssemblyInfo.cs
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.csproj.CoreCompileInputs.cache
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.dll
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.pdb
+D:\AccessModifier\FindAndSort\Person_School\obj\Debug\netcoreapp3.1\Person_School.genruntimeconfig.cache

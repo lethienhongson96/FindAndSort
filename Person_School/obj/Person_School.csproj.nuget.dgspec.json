@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Collections\\FindAndSort\\Person_School\\Person_School.csproj": {}
+    "D:\\AccessModifier\\FindAndSort\\Person_School\\Person_School.csproj": {}
   },
   "projects": {
-    "D:\\Collections\\FindAndSort\\Person_School\\Person_School.csproj": {
+    "D:\\AccessModifier\\FindAndSort\\Person_School\\Person_School.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Collections\\FindAndSort\\Person_School\\Person_School.csproj",
+        "projectUniqueName": "D:\\AccessModifier\\FindAndSort\\Person_School\\Person_School.csproj",
         "projectName": "Person_School",
-        "projectPath": "D:\\Collections\\FindAndSort\\Person_School\\Person_School.csproj",
+        "projectPath": "D:\\AccessModifier\\FindAndSort\\Person_School\\Person_School.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Collections\\FindAndSort\\Person_School\\obj\\",
+        "outputPath": "D:\\AccessModifier\\FindAndSort\\Person_School\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

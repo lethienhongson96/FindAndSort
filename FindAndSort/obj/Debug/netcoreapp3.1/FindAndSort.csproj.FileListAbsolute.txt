@@ -11,3 +11,16 @@ D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.cspro
 D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.dll
 D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.pdb
 D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.genruntimeconfig.cache
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.exe
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.deps.json
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.runtimeconfig.json
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.runtimeconfig.dev.json
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.dll
+D:\AccessModifier\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.pdb
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.csprojAssemblyReference.cache
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.AssemblyInfoInputs.cache
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.AssemblyInfo.cs
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.csproj.CoreCompileInputs.cache
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.dll
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.pdb
+D:\AccessModifier\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.genruntimeconfig.cache

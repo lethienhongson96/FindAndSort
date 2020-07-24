@@ -1,0 +1,13 @@
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.exe
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.deps.json
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.runtimeconfig.json
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.runtimeconfig.dev.json
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.dll
+D:\Collections\FindAndSort\FindAndSort\bin\Debug\netcoreapp3.1\FindAndSort.pdb
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.csprojAssemblyReference.cache
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.AssemblyInfoInputs.cache
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.AssemblyInfo.cs
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.csproj.CoreCompileInputs.cache
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.dll
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.pdb
+D:\Collections\FindAndSort\FindAndSort\obj\Debug\netcoreapp3.1\FindAndSort.genruntimeconfig.cache
