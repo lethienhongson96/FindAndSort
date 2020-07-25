@@ -82,7 +82,7 @@ namespace Product
                 importob.createAt = DateTime.Today;
                 importob.quantity = amount;//so luong import vao
                 importob.QuantityActual = amount;
-                importob.CheckSale = true;
+                importob.CheckWare = true;
                 importob.ImpPrice = impPrice;
                 ImportList.Add(importob);
             }
@@ -103,7 +103,7 @@ namespace Product
                     importob.quantity = amount;
                     Console.WriteLine($"Profit is: {CaculatorProfit(id, amount, sellPrice)}");
                     SellingInWare(id, amount);
-                    importob.CheckSale = false;
+                    importob.CheckWare = false;
                     importob.SellPrice = sellPrice;
                     ImportList.Add(importob);
                 }
@@ -129,7 +129,7 @@ namespace Product
             if (FindTime(dateTime).Count == 0)
                 Console.WriteLine($"not found {dateTime}");
             else
-                FindTime(dateTime).ForEach(el => Console.WriteLine(el));
+                FindTime(dateTime).ForEach(el => Console.WriteLine(el)); 
         }
         public double CaculatorProfit(int id, int amount, double sellPrice)
         {

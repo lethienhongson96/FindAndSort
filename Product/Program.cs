@@ -38,7 +38,7 @@ namespace Product
 
             Console.WriteLine("enter id of product to import amount:");
             int id1 = Convert.ToInt32(Console.ReadLine());
-
+            
             Console.WriteLine("enter amount of product to import amount:");
             int amount1 = Convert.ToInt32(Console.ReadLine());
 
