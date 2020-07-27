@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gcnFlOE6sm6KbiX3mGqoWVVLmxsFRRf1ggSM1TlUXXqIOCi9WiexgauEBa5Tg0Wbu+dDSBE0LKI1koRSmCc/Q==",
+  "success": true,
+  "projectFilePath": "D:\\AccessModifier\\FindAndSort\\CoffeeShop\\CoffeeShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

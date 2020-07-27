@@ -1,0 +1,19 @@
+{
+  "datalists1": [
+    {
+      "multia": 2,
+      "multib": 4,
+      "multic": 6
+    },
+    {
+      "multia": 8,
+      "multib": 10,
+      "multic": 12
+    },
+    {
+      "multia": 14,
+      "multib": 16,
+      "multic": 18
+    }
+  ]
+}

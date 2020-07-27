@@ -1,0 +1,15 @@
+{
+  "total": 19000.0,
+  "TableNum": 2,
+  "PrintAt": "2020-07-27T17:18:23.9510443+07:00",
+  "orderdetails": [
+    {
+      "drinkName": "pepsi",
+      "price": 9000.0
+    },
+    {
+      "drinkName": "mirinda",
+      "price": 10000.0
+    }
+  ]
+}

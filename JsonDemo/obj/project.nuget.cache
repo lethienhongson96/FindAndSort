@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTkB5J1vRVmXKIC2hDcIqLmKspFpatkYi9GWfUojoIJz7CoIpmLFzwdv8IFKXIuXfGfaFKjI8MF99g5kNjSx8w==",
+  "success": true,
+  "projectFilePath": "D:\\AccessModifier\\FindAndSort\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -54,5 +54,6 @@ namespace Product
 
             productList.ViewHistory(DateTime.Parse(date));
         }
+        
     }
 }

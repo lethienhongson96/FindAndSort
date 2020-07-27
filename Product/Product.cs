@@ -141,6 +141,7 @@ namespace Product
                 {
                     profit += (item.QuantityActual * sellPrice) - (item.QuantityActual * item.ImpPrice);
                     amount = amount - item.QuantityActual;
+
                 }
 
                 else
@@ -173,8 +174,5 @@ namespace Product
                 }
             }
         }
-
-
-
     }
 }

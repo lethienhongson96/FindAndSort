@@ -1,0 +1,38 @@
+{
+  "Tables": [
+    {
+      "checkUse": true,
+      "drinkList": [
+        {
+          "drinkName": "tra da ha noi",
+          "price": 2000.0
+        },
+        {
+          "drinkName": "tra da quang tri",
+          "price": 5000.0
+        }
+      ],
+      "tableNumber": 1
+    },
+    {
+      "checkUse": false,
+      "drinkList": [
+      ],
+      "tableNumber": 2
+    },
+    {
+      "checkUse": true,
+      "drinkList": [
+        {
+          "drinkName": "ca phe den",
+          "price": 20000.0
+        },
+        {
+          "drinkName": "ca phe sua",
+          "price": 16000.0
+        }
+      ],
+      "tableNumber": 3
+    }
+  ]
+}
