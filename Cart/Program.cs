@@ -34,7 +34,6 @@ namespace Cart
         public static string billfilename = $"Bill_{DateTime.Now.ToString("ddMMyyyyhhmm")}.json";
         static void Main(string[] args)
         {
-
             do
             {
                 Menu();
@@ -53,24 +52,29 @@ namespace Cart
                                 cart.AddProduct(product6);
                                 WirteFile();
                                 break;
+
                             case 2:
                                 cart.AddProduct(product7);
                                 WirteFile();
                                 break;
+
                             case 3:
                                 cart.AddProduct(product8);
                                 WirteFile();
                                 break;
+
                             case 4:
                                 cart.AddProduct(product9);
                                 WirteFile();
                                 break;
                         }
                         break;
+
                     case 2:
                         Readfile();
                         cart.ViewCart();
                         break;
+
                     case 3:
                         Readfile();
                         if (cart.checkSale)
@@ -88,7 +92,6 @@ namespace Cart
                             Console.WriteLine("gio hang trong");
                         break;
                 }
-
             } while (true);
 
         }
