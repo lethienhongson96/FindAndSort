@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "price": 7000000.0,
+      "name": "iphone 7",
+      "amount": 2,
+      "proTotalPrice": 14000000.0
+    },
+    {
+      "price": 8000000.0,
+      "name": "iphone 8",
+      "amount": 1,
+      "proTotalPrice": 8000000.0
+    }
+  ],
+  "checkSale": false,
+  "total": 22000000.0
+}

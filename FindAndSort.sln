@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOFile", "IOFile\IOFile.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning_Threading", "Learning_Threading\Learning_Threading.csproj", "{ABF458BA-3448-48A8-B101-31FE90CAFC41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{6AA186BA-03DB-43A9-BE6F-E3AD63279715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{6AA186BA-03DB-43A9-BE6F-E3AD63279715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop", "CoffeeShop\CoffeeShop.csproj", "{7CE6A81D-ABD5-44D3-8348-456F8953D77C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeShop", "CoffeeShop\CoffeeShop.csproj", "{7CE6A81D-ABD5-44D3-8348-456F8953D77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart", "Cart\Cart.csproj", "{20D57A7F-3236-4608-9F70-6EEE2615BFAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7CE6A81D-ABD5-44D3-8348-456F8953D77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE6A81D-ABD5-44D3-8348-456F8953D77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE6A81D-ABD5-44D3-8348-456F8953D77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D57A7F-3236-4608-9F70-6EEE2615BFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D57A7F-3236-4608-9F70-6EEE2615BFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D57A7F-3236-4608-9F70-6EEE2615BFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D57A7F-3236-4608-9F70-6EEE2615BFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

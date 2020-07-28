@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Lbk/1m94z7odhscmUHkwWIPUWSGHKnyoQS0PUe0VvvwazjJdhYCoPd0ibi0G3ZPeNhmOfFIyKurnLYXlKS7vg==",
+  "success": true,
+  "projectFilePath": "D:\\AccessModifier\\FindAndSort\\Cart\\Cart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
